@@ -7,7 +7,6 @@
 
   <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/src/output.css">
 
-
 </head>
 <body class="bg-white dark:bg-gray-950">
   <main class="min-h-screen flex items-center justify-center px-4">
@@ -15,7 +14,7 @@
     <div class="text-center w-full max-w-lg mx-auto">
 
       <h1 class="text-4xl/11 md:text-5xl/13 font-bold text-gray-900 dark:text-white mb-4">
-        Situs Sedang dalam Pengerjaan
+        Situs Sedang dalam Pemeliharaan
       </h1>
 
       <p class="text-base text-gray-600 dark:text-gray-300 mb-8">
